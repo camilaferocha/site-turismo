@@ -1,2 +1,2 @@
 # site-turismo
-Site com dicas sobre a cidade de Santo André/SP.
+Site com dicas sobre a cidade de Santa Bárbara D'Oeste.
